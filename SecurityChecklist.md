@@ -1,3 +1,48 @@
+# Device and Account Security Checklist
+
+-   [Checklist Instructions](#checklist-instructions)
+-   [Secure Your Devices](#secure-your-devices)
+    -   [Consider Using a Chromebook or
+        iPad](#consider-using-a-chromebook-or-ipad)
+    -   [Laptop Disk Encryption](#laptop-disk-encryption)
+    -   [Web Encryption](#web-encryption)
+    -   [Secure your Mobile Phone
+        Account](#secure-your-mobile-phone-account)
+-   [Secure your Accounts](#secure-your-accounts)
+    -   [Passwords](#passwords)
+    -   [Password managers](#password-managers)
+    -   [Two-factor authentication](#two-factor-authentication)
+        -   [SMS-based 2FA (ok; better than
+            nothing)](#sms-based-2fa-ok-better-than-nothing)
+        -   [Email-based 2FA (better than
+            nothing)](#email-based-2fa-better-than-nothing)
+        -   [Push-based 2FA Approvals (better - with
+            awareness)](#push-based-2fa-approvals-better---with-awareness)
+        -   [Token Application based 2FA
+            (better)](#token-application-based-2fa-better)
+        -   [Hardware Token based 2FA
+            (best)](#hardware-token-based-2fa-best)
+-   [Email Services](#email-services)
+    -   [Google Account Security](#google-account-security)
+    -   [Outlook/Live Account Security](#outlooklive-account-security)
+    -   [Apple Account Security](#apple-account-security)
+-   [Social, Privacy, and Identity](#social-privacy-and-identity)
+    -   [Verify, then Trust](#verify-then-trust)
+    -   [Important Online Accounts to
+        Claim](#important-online-accounts-to-claim)
+    -   [Social Media Privacy Settings](#social-media-privacy-settings)
+    -   [Security Questions](#security-questions)
+    -   [Freezing your Credit](#freezing-your-credit)
+-   [Travel Guidelines](#travel-guidelines)
+    -   [Physically Secure your Digital
+        Assets](#physically-secure-your-digital-assets)
+    -   [Travel to High Risk Countries](#travel-to-high-risk-countries)
+-   [More Information](#more-information)
+-   [Credits](#credits)
+
+An up-to-date digital copy with links is available here:
+https://github.com/bdwilson/security-checklist
+
 An up-to-date digital copy with links is available here: https://github.com/bdwilson/security-checklist
 
 # Checklist Instructions

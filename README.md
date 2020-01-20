@@ -9,8 +9,7 @@ If you are in the information security field or have other responsiblities that 
 increase your cyber risks (wealth, popular, social media influencer, etc) then
 you likely want to go beyond what this document can offer in terms of advice. 
 
-* [Device & Account Checklist (with Table of Contents)](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist%2Btoc.md)
-* [Device & Account Checklist (without TOC)](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
+* [Device & Account Checklist](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
 
 # Contributions & Corrections 
 If you have corrections that pertain to **regular** people or any
