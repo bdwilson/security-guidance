@@ -2,9 +2,11 @@ An up-to-date digital copy available: https://github.com/bdwilson/security-check
 
 # Checklist Instructions
 
-Use this checklist to make sure you have reviewed all the device and
-account security basics, starting with your personal digital life. Print
-out the document and check off the boxes. These recommendations are
+Your security awareness at home directly effets your security awareness at work, so
+highlighting ways you can help secure your home life will drive employees to be
+more secure at work.  Use this checklist to make sure you have reviewed all the device and
+account security basics, revolving around your personal digital life. 
+Print out the document and check off each item. These recommendations are
 based on a threat model of a regular employee or US citizen -- if you are
 an executive or have a reason to be targeted, then additional
 protections may apply.
@@ -282,4 +284,5 @@ the daily news about security problems, it will come as no surprise that
 these practices will not be sufficient in all cases.
 
 # Credits
-[Bob Lord](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
+[Bob Lord](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c) for his work on the Device and Account Security checklist that this is based
+off of. 
