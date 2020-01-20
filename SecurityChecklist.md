@@ -335,8 +335,12 @@ on how to do this for yourself and other family members, however they
 fail to include the smaller two agencies that should also be reviewed.
 Those may be found
 [here](mailto:https://www.nerdwallet.com/blog/finance/pros-and-cons-freezing-credit/).
-You can also keep tabs on your credit for free by using either Credit
-Karma and/or Turbo (by Intuit) who offer apps that provide this service
+If you're looking for a detailed document on how to freeze the credit of a
+minor, this is detailed
+[here](https://brianwilson.us/2019-04-02-Credit-Protections-for-Minors/). 
+You can also keep tabs on your credit for free by using either [Credit
+Karma](https://www.creditkarma.com/) and/or [Turbo (by
+Intuit)](https://turbo.intuit.com/) who offer apps that provide this service
 in hopes that you'll take advantage of their credit offers.
 
 # Travel Guidelines
@@ -351,10 +355,12 @@ the trunk or under the seat).
 ## Travel to High Risk Countries
 If you're traveling for business to a high-risk country, it is advised
 you do not take your primary machine or primary phone device with you.
-Removing sensitive data from a system before travel is advised. 
-Re-installing your system after a trip, or using a device as mentioned above
-like a Chromebook or iPad - which limits many attack vectors, compared to a
-typical laptop.
+Purchasing a device specific to travel that doesn't hold any sensitive data is
+recommended. If you have to take your primary device, remove any sensitive data
+from it prior to travel, and consider re-installing your system after the trip.
+Another option would be to use [a device as mentioned
+above like a Chromebook or iPad](#consider-using-a-chromebook-or-ipad) which
+limits many attack vectors, compared to a typical laptop.
 
 # More Information 
 The information above is general guidance that will dramatically reduce
