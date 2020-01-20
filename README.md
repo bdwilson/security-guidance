@@ -2,16 +2,20 @@
 
 The goal of this checklist is to help regular people figure out what they need
 to do in order to secure their digital life. **Regular** people being those who
-don't live, breathe and fully grasp security but know they need to do more to
-protect themselves and their families.  
+don't live, breathe and fully grasp security concepts but know they need to do more to
+protect themselves and their families from cyber threats.
 
-If you are in the information security field or have other things that might
-increase the risks to you (wealth, popular, social media influencer, etc) then
+If you are in the information security field or have other responsiblities that might
+increase your cyber risks (wealth, popular, social media influencer, etc) then
 you likely want to go beyond what this document can offer in terms of advice. 
 
+* [Device & Account Checklist (with Table of Contents)](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist%2Btoc.md)
+* [Device & Account Checklist (without TOC)](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
+
+# Contributions & Corrections 
 If you have corrections that pertain to **regular** people or any
-formatting/gramatical errors, please let me know or fork the document and issue
-pull requests to fix. Regular people don't need VPN's because TLS is so
+formatting/gramatical errors, please let me know via an issue or fork the document and issue
+pull requests to fix. Keep in mind regular likely don't need VPN's because TLS is so
 pervasive, hence why that is not included. 
 
 # Credits 
@@ -19,3 +23,4 @@ pervasive, hence why that is not included.
 for his work on the Device and Account Security checklist that he put together
 for the DNC that this is based off of. I started with this as a template and
 have adapated it as others ask me the best way to do things. 
+

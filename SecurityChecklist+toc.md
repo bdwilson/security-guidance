@@ -1,4 +1,4 @@
-# Security Checklist
+# Device and Account Security Checklist
 
 -   [Checklist Instructions](#checklist-instructions)
 -   [Secure Your Devices](#secure-your-devices)
@@ -40,7 +40,7 @@
 -   [More Information](#more-information)
 -   [Credits](#credits)
 
-An up-to-date digital copy available:
+An up-to-date digital copy with links is available here:
 https://github.com/bdwilson/security-checklist
 
 Checklist Instructions

@@ -1,4 +1,4 @@
-An up-to-date digital copy available: https://github.com/bdwilson/security-checklist
+An up-to-date digital copy with links is available here: https://github.com/bdwilson/security-checklist
 
 # Checklist Instructions
 
