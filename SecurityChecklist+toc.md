@@ -274,13 +274,25 @@ Important Online Accounts to Claim
 ----------------------------------
 
 Below are a few common accounts which individuals should *pre-claim* so
-that they can maintain their identity with the providers.
+that you can maintain your identity with these providers.
 
-  **Account**   **Purpose**                   **Why this is important**                                                                                                                                                                                                                                                                **Actions to take**
-  ------------- ----------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------
-  IRS.gov       IRS online services account   Identity theft prevention; as well as protecting your IRS account from someone else registering (and potentially submitting a tax return as you)                                                                                                                                         Use a strong and unique password (stored in your password manager of choice) and enable 2FA
-  SSA.gov       my Social Security            Identity theft prevention; as well as protecting your Social Security account from someone else registering (and potentially claiming your social security benefits)                                                                                                                     Use a strong and unique password (stored in your password manager of choice) and enable 2FA
-  USPS.com      Informed Delivery             Sign up for Informed Delivery - to see what is coming in your mailbox; otherwise someone else could setup this account and would know if something sensitive is waiting in your mailbox or they could perform mail forwarding without your knowledge (helps to prevent identity theft)   Use a strong and unique password (stored in your password manager of choice) and enable 2FA
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Account**                                                     **Purpose**                                                     **Why this is important**                                       **Actions to take**
+  --------------------------------------------------------------- --------------------------------------------------------------- --------------------------------------------------------------- ---------------------------------------------------------------
+  [IRS.gov](https://www.irs.gov/payments/view-your-tax-account)   IRS online services account                                     Identity theft prevention; as well as protecting your IRS       Use a strong and unique password (stored in your password
+                                                                                                                                  account from someone else registering (and potentially          manager of choice) and enable 2FA
+                                                                                                                                  submitting a tax return as you)                                 
+
+  [SSA.gov](https://www.ssa.gov/site/signin/en/)                  my Social Security                                              Identity theft prevention; as well as protecting your Social    Use a strong and unique password (stored in your password
+                                                                                                                                  Security account from someone else registering (and potentially manager of choice) and enable 2FA
+                                                                                                                                  claiming your social security benefits)                         
+
+  [USPS.com](https://www.usps.com/)                               Informed Delivery                                               Sign up for Informed Delivery - to see what is coming in your   Use a strong and unique password (stored in your password
+                                                                                                                                  mailbox; otherwise someone else could setup this account and    manager of choice) and enable 2FA
+                                                                                                                                  would know if something sensitive is waiting in your mailbox or 
+                                                                                                                                  they could perform mail forwarding without your knowledge       
+                                                                                                                                  (helps to prevent identity theft)                               
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Social Media Privacy Settings
 -----------------------------
