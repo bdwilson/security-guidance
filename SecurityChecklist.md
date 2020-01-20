@@ -1,7 +1,6 @@
 An up-to-date digital copy available: https://github.com/bdwilson/security-checklist
 
-Checklist Instructions
-======
+# Checklist Instructions
 
 Use this checklist to make sure you have reviewed all the device and
 account security basics, starting with your personal digital life. Print
@@ -10,7 +9,7 @@ based on a threat model of a regular employee or US citizen -- if you are
 an executive or have a reason to be targeted, then additional
 protections may apply.
 
-#Secure Your Devices
+# Secure Your Devices
 Keeping your laptops, phones, tablets, and "smart devices" as well as
 the applications on them, updated is one of the most important ways to
 keep them (and your data) secure. For example, most operating system
@@ -20,14 +19,14 @@ apply your updates as soon as they come out, better yet, set them to
 auto-install. If you're running Windows, make sure it's a supported
 version and that Windows Defender is enabled.
 
-##Consider Using a Chromebook or iPad
+## Consider Using a Chromebook or iPad
 A key technique for reducing the risk of a breach is to reduce your
 attack surface. To that end, consider migrating your personal computing
 device to a Chromebook or an iPad. Both devices offer several key
 security features, which dramatically limit the options attackers have
 for running malware.
 
-##Laptop Disk Encryption
+## Laptop Disk Encryption
 Encrypting your laptop can keep your data safe even when it is lost or
 stolen. Disk encryption is easy to enable and does not take much time.
 Here are the instructions: for [Macs](https://support.apple.com/en-us/HT204837) and for
@@ -36,7 +35,7 @@ If you're using a Chromebook, your data is
 [encrypted](https://support.google.com/chromebook/answer/3438631) in the
 cloud.
 
-##Web Encryption
+## Web Encryption
 Some websites do not properly enable encryption for all connections.
 Luckily, there is something you can do to make sure your internet
 connections are secure. In your web browser, you should install the
@@ -50,7 +49,7 @@ protect your web traffic; however, you have no control over what path
 that data travels or what the provider does with the data. HTTPS and
 Secure Websites offer similar protections without cost.
 
-##Secure your Mobile Phone Account
+## Secure your Mobile Phone Account
 Most phone carriers allow you to set a login PIN that is required in
 order to make changes to your account. If your carrier supports this
 feature, you should enable it because having a PIN makes it harder for
@@ -59,7 +58,7 @@ anything protected by your phone number or linked to SMS. Even if they
 guess your name and password, they will still need your PIN to access
 and make changes to your account.
 
-#Secure your Accounts
+# Secure your Accounts
 ## Passwords 
 For every one of your online accounts, you should use a password that is
 **long**, **random**, and **unique**. Here is our current
@@ -79,7 +78,7 @@ a tall order. The solution is to use a password manager, which can be
 intimidating; however, integrations with mobile devices and browsers
 have made for a less disruptive user experience.
 
-##Password managers 
+## Password managers 
 Password managers such as [1Password](https://1password.com/) and
 [LastPass](https://lastpass.com/) help you create, store and enter
 login credentials for you from within your browser or mobile device.
@@ -114,7 +113,7 @@ This is not an exhaustive list of password managers, there are many others
 available. Please make sure you look at how the products manage and react to
 security issues before you select a product. 
 
-##Two-factor authentication 
+## Two-factor authentication 
 **Two-factor** authentication (sometimes called 2FA, "two-step",
 "multi-factor", MFA, or OTP-One Time Passcodes) adds an additional and
 critical step to a website's login process. 2FA systems either use your smartphone or a hardware
@@ -142,7 +141,7 @@ however, the other options provide more security.
 Note that you may have more than one
 account on these services. Protect them all
 
-##Email Services
+# Email Services
 For most individuals, we strongly recommend using personal mail services
 hosted by either Microsoft (Outlook/Live/O365), Google (Gmail/G Suite),
 or Apple (iCloud). While there are other free or ISP-provided services
@@ -150,7 +149,7 @@ that might sound attractive, none of them match the security programs
 and teams at Microsoft, Google, or Apple. Maintaining and securing email
 services is a difficult job, so leave it to the experts.
 
-###Google Account Security
+## Google Account Security
 If you use Gmail for personal email, you should get a security checkup.
 Go to <https://myaccount.google.com/security-checkup>. Click on each of
 the four rows, starting with "Your Devices." A few points:
@@ -168,7 +167,7 @@ the four rows, starting with "Your Devices." A few points:
 4.  Under "Third-party access" (if present), remove access from any apps
     you do not use or recognize.
 
-###Outlook/Live Account Security
+## Outlook/Live Account Security
 If you use Outlook/Live for personal email, you can also review your
 sign-ins and should enroll in their Two-Step Verification program via
 <https://account.microsoft.com/security/>. To do this:
@@ -184,7 +183,7 @@ sign-ins and should enroll in their Two-Step Verification program via
 4.  Set up the Identity Verification App by either downloading the
     Microsoft Authenticator App or using an OTP app discussed earlier.
 
-###Apple Account Security
+## Apple Account Security
 If you use Apple devices, you should
 [enable](https://support.apple.com/en-us/HT204915) their Two-Factor
 Authentication option. This can be done from your iOS device via:
@@ -195,9 +194,9 @@ Authentication option. This can be done from your iOS device via:
 
 3.  Tap "Continue"
 
-#Social, Privacy, and Identity
+# Social, Privacy, and Identity
 
-##Verify, then Trust
+## Verify, then Trust
 Attacks come in many shapes and sizes, but one of the most unpredictable
 attacks revolves around human trust. These social engineering attacks
 often originate in the form of a phone call, text message, or email;
@@ -209,7 +208,7 @@ you to transfer money -- verify the identity of the person waiting
 outside your building before letting them in. Don't let yourself become
 the vulnerability!
 
-##Important Online Accounts to Claim
+## Important Online Accounts to Claim
 Below are a few common accounts which individuals should *pre-claim* so
 that they can maintain their identity with the providers.
 
@@ -219,7 +218,7 @@ that they can maintain their identity with the providers.
   SSA.gov       my Social Security            Identity theft prevention; as well as protecting your Social Security account from someone else registering (and potentially claiming your social security benefits)                                                                                                                     Use a strong and unique password (stored in your password manager of choice) and enable 2FA
   USPS.com      Informed Delivery             Sign up for Informed Delivery - to see what is coming in your mailbox; otherwise someone else could setup this account and would know if something sensitive is waiting in your mailbox or they could perform mail forwarding without your knowledge (helps to prevent identity theft)   Use a strong and unique password (stored in your password manager of choice) and enable 2FA
 
-##Social Media Privacy Settings
+## Social Media Privacy Settings
 Facebook is one of the most notable social media providers but also
 collects the most information about it's users. They have recently given
 users more control over their privacy settings and those can be
@@ -230,7 +229,7 @@ Instagram, Twitter and Snapchat privacy settings [should also be
 reviewed](mailto:http://www.respectteam.com/blog/social-media-privacy-facebook-instagram-twitter-and-snapchat/),
 especially if you have children using these services.
 
-##Security Questions
+## Security Questions
 A few websites still rely on account security questions ("ASQ") to help
 identify you in the event you forget your password. They often ask for
 information like "Where did you travel on your honeymoon?" While that
@@ -242,7 +241,7 @@ using random words or a generated password to answer those questions
 rather than using real answers. Use your password manager to store your
 random answers in the Notes or Comments section.
 
-##Freezing your Credit
+## Freezing your Credit
 Freezing your credit is a great way to proactively thwart attempts to
 steal your identity and open new lines of credit without your
 permission. Freezing your credit at the "Big 3" credit reporting
@@ -259,16 +258,16 @@ You can also keep tabs on your credit for free by using either Credit
 Karma and/or Turbo (by Intuit) who offer apps that provide this service
 in hopes that you'll take advantage of their credit offers.
 
-#Travel Guidelines
+# Travel Guidelines
 
-##Physically Secure your Digital Assets
+## Physically Secure your Digital Assets
 Resist the urge to leave computing devices in your checked luggage or
 leave your devices unattended. Keep your devices on you or with someone
 you trust. If a physical lock or safe is available, use it. If you must
 leave your devices in your car, lock them where they cannot be seen (in
 the trunk or under the seat).
 
-##Travel to High Risk Countries
+## Travel to High Risk Countries
 If you're traveling for business to a high-risk country, it is advised
 you do not take your primary machine or primary phone device with you.
 Removing sensitive data from a system before travel is advised. 
@@ -276,11 +275,11 @@ Re-installing your system after a trip, or using a device as mentioned above
 like a Chromebook or iPad - which limits many attack vectors, compared to a
 typical laptop.
 
-#More Information 
+# More Information 
 The information above is general guidance that will dramatically reduce
 the risk of attackers compromising your devices and accounts. But, given
 the daily news about security problems, it will come as no surprise that
 these practices will not be sufficient in all cases.
 
-#Credits
+# Credits
 [Bob Lord](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)

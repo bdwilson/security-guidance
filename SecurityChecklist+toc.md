@@ -12,11 +12,10 @@
     -   [Passwords](#passwords)
     -   [Password managers](#password-managers)
     -   [Two-factor authentication](#two-factor-authentication)
-    -   [Email Services](#email-services)
-        -   [Google Account Security](#google-account-security)
-        -   [Outlook/Live Account
-            Security](#outlooklive-account-security)
-        -   [Apple Account Security](#apple-account-security)
+-   [Email Services](#email-services)
+    -   [Google Account Security](#google-account-security)
+    -   [Outlook/Live Account Security](#outlooklive-account-security)
+    -   [Apple Account Security](#apple-account-security)
 -   [Social, Privacy, and Identity](#social-privacy-and-identity)
     -   [Verify, then Trust](#verify-then-trust)
     -   [Important Online Accounts to
@@ -194,7 +193,7 @@ however, the other options provide more security. Note that you may have
 more than one account on these services. Protect them all
 
 Email Services
---------------
+==============
 
 For most individuals, we strongly recommend using personal mail services
 hosted by either Microsoft (Outlook/Live/O365), Google (Gmail/G Suite),
@@ -203,7 +202,8 @@ that might sound attractive, none of them match the security programs
 and teams at Microsoft, Google, or Apple. Maintaining and securing email
 services is a difficult job, so leave it to the experts.
 
-### Google Account Security
+Google Account Security
+-----------------------
 
 If you use Gmail for personal email, you should get a security checkup.
 Go to <https://myaccount.google.com/security-checkup>. Click on each of
@@ -222,7 +222,8 @@ the four rows, starting with "Your Devices." A few points:
 4.  Under "Third-party access" (if present), remove access from any apps
     you do not use or recognize.
 
-### Outlook/Live Account Security
+Outlook/Live Account Security
+-----------------------------
 
 If you use Outlook/Live for personal email, you can also review your
 sign-ins and should enroll in their Two-Step Verification program via
@@ -239,7 +240,8 @@ sign-ins and should enroll in their Two-Step Verification program via
 4.  Set up the Identity Verification App by either downloading the
     Microsoft Authenticator App or using an OTP app discussed earlier.
 
-### Apple Account Security
+Apple Account Security
+----------------------
 
 If you use Apple devices, you should
 [enable](https://support.apple.com/en-us/HT204915) their Two-Factor
