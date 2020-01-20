@@ -214,22 +214,9 @@ that they can maintain their identity with the providers.
 
 | **Account** |  **Purpose** | **Why this is important** | **Actions to take**|
 | ---- | ---- | ---- | ---- |
-|  [IRS.gov](https://www.irs.gov/payments/view-your-tax-account) | IRS online
-services account |  Identity theft prevention; as well as protecting your IRS
-account from someone else registering (and potentially submitting a tax return
-as you) | Use a strong and unique password (stored in your password manager of
-choice) and enable 2FA|
-| [SSA.gov](https://www.ssa.gov/site/signin/en/) | my Social Security |
-Identity theft prevention; as well as protecting your Social Security account
-from someone else registering (and potentially claiming your social security
-benefits) | Use a strong and unique password (stored in your password manager
-of choice) and enable 2FA |
-| [USPS.com](https://www.usps.com/) | Informed Delivery | Sign up for Informed
-Delivery - to see what is coming in your mailbox; otherwise someone else could
-setup this account and would know if something sensitive is waiting in your
-mailbox or they could perform mail forwarding without your knowledge (helps to
-prevent identity theft) | Use a strong and unique password (stored in your
-password manager of choice) and enable 2FA|
+|  [IRS.gov](https://www.irs.gov/payments/view-your-tax-account) | IRS online services account |  Identity theft prevention; as well as protecting your IRS account from someone else registering (and potentially submitting a tax return as you) | Use a strong and unique password (stored in your password manager of choice) and enable 2FA|
+| [SSA.gov](https://www.ssa.gov/site/signin/en/) | my Social Security | Identity theft prevention; as well as protecting your Social Security account from someone else registering (and potentially claiming your social security benefits) | Use a strong and unique password (stored in your password manager of choice) and enable 2FA |
+| [USPS.com](https://www.usps.com/) | Informed Delivery | Sign up for Informed Delivery - to see what is coming in your mailbox; otherwise someone else could setup this account and would know if something sensitive is waiting in your mailbox or they could perform mail forwarding without your knowledge (helps to prevent identity theft) | Use a strong and unique password (stored in your password manager of choice) and enable 2FA|
 
 ## Social Media Privacy Settings
 Facebook is one of the most notable social media providers but also
