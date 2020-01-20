@@ -43,8 +43,6 @@
 An up-to-date digital copy with links is available here:
 https://github.com/bdwilson/security-checklist
 
-An up-to-date digital copy with links is available here: https://github.com/bdwilson/security-checklist
-
 # Checklist Instructions
 
 Your security awareness at home directly effets your security awareness at work, so
