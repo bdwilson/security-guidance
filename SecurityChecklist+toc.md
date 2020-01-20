@@ -12,6 +12,16 @@
     -   [Passwords](#passwords)
     -   [Password managers](#password-managers)
     -   [Two-factor authentication](#two-factor-authentication)
+        -   [SMS-based 2FA (ok; better than
+            nothing)](#sms-based-2fa-ok-better-than-nothing)
+        -   [Email-based 2FA (better than
+            nothing)](#email-based-2fa-better-than-nothing)
+        -   [Push-based 2FA Approvals (better - with
+            awareness)](#push-based-2fa-approvals-better---with-awareness)
+        -   [Token Application based 2FA
+            (better)](#token-application-based-2fa-better)
+        -   [Hardware Token based 2FA
+            (best)](#hardware-token-based-2fa-best)
 -   [Email Services](#email-services)
     -   [Google Account Security](#google-account-security)
     -   [Outlook/Live Account Security](#outlooklive-account-security)
@@ -177,22 +187,66 @@ on how to enable this for various sites and services -- specific
 instructions for Google, Microsoft, and Apple are below. If your
 critical providers like finance and banking do not offer 2FA, you should
 encourage them to add it or look for another provider that offers more
-advanced security features.
+advanced security features. Note that you may have more than one account
+with each provider, you'll want to protect them all.
+
+### SMS-based 2FA (ok; better than nothing)
+
+**Caution**: Many websites offer SMS-based (text message) two-factor
+access. Unfortunately, it is possible to steal someone's phone number
+(remember "[SIM-swap attacks](#secure-your-mobile-phone-account)"?), and
+then to intercept two-factor codes sent via SMS. For most, SMS-based 2FA
+is better than no 2FA at all; however, the other options below provide
+more security.
+
+### Email-based 2FA (better than nothing)
+
+Some providers offer email-based 2FA where they will email you a token
+in order to require you to login. This is good assuming you know your
+email has not been compromised, being forwarded somewhere or some random
+application has access to it. This may be better than SMS-based
+protection because taking over someone's phone account is probably
+easier than gaining access to their email. Keep looking at the other
+options.
+
+### Push-based 2FA Approvals (better - with awareness)
+
+Some providers ([Symantec VIP](https://vip.symantec.com),
+[Duo](https://duo.com/product/multi-factor-authentication-mfa/authentication-methods/duo-push)
+and [Microsoft
+Authenticator](https://www.microsoft.com/en-us/account/authenticator))
+offer their own applications that use a real-time push message sent to
+your mobile device for you to approve. This is a convenient method for
+the end-user, however users **must make sure they only approve messages
+they initiated**. If you receive a push message that was not initiated
+from you, you should take action to immediately change your password on
+the impacted accounts.
+
+### Token Application based 2FA (better)
 
 Some providers use "token applications" to manage your credentials. [OTP
 Auth](https://itunes.apple.com/us/app/otp-auth/id659877384?mt=8) (iOS)
 and [TOPT Authenticator](https://www.binaryboot.com/totp-authenticator)
 (Android) are reputable token applications that support standards-based
 One Time Passcode tokens compatible with most sites. These apps, unlike
-Google Authenticator, support encrypted backups -- otherwise, you may
-have to re-enroll with 2FA at each site should you upgrade your device!
+the Google Authenticator app, support encrypted backups (and restores to
+new drvice) -- otherwise, you may have to re-enroll with 2FA at each
+site should you upgrade your device!
 
-**Caution**: Many websites offer SMS-based (text message) two-factor
-access. Unfortunately, it is possible to steal someone's phone number
-(remember "SIM-swap attacks"?), and then to intercept two-factor codes
-sent via SMS. For most, SMS-based 2FA is better than no 2FA at all;
-however, the other options provide more security. Note that you may have
-more than one account on these services. Protect them all
+### Hardware Token based 2FA (best)
+
+Hardware-based security keys are the most secure method to choose, but
+also comes with more hoops that a user must jump through to make them
+work. If you are serious about keeping your accounts secure, a
+[Yubico](https://www.yubico.com/product/security-key-nfc-by-yubico) or
+[Titan Security Key](https://cloud.google.com/titan-security-key/) is
+the way to go. Not all providers accept physical security keys, plus you
+may have mobile device limitations that may prevent all types of keys
+from working with your device. It is also advised if you use
+hardware-based tokens, that you review any other authentication methods
+on your account (like SMS) and remove the less-secure options from your
+account, otherwise an attacker could get around your hardware key and
+your use of it to be more secure would be moot.
 
 Email Services
 ==============
