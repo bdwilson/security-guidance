@@ -210,7 +210,7 @@ the vulnerability!
 
 ## Important Online Accounts to Claim
 Below are a few common accounts which individuals should *pre-claim* so
-that they can maintain their identity with the providers.
+that you can maintain your identity with these providers. 
 
 | **Account** |  **Purpose** | **Why this is important** | **Actions to take**|
 | ---- | ---- | ---- | ---- |
