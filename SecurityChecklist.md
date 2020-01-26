@@ -12,7 +12,7 @@ AKA: Security for the rest of us.
 -   [Secure your Accounts](#secure-your-accounts)
     -   [Passwords](#passwords)
     -   [Password Managers](#password-managers)
-    -   [Account Monitoring(#account-monitoring)
+    -   [Account Monitoring](#account-monitoring)
     -   [Two-factor Authentication](#two-factor-authentication)
         -   [SMS-based 2FA (ok; better than
             nothing)](#sms-based-2fa-ok-better-than-nothing)
