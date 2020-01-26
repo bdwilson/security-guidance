@@ -1,4 +1,5 @@
 # Device and Account Security Checklist
+AKA: Security for the rest of us.
 
 -   [Checklist Instructions](#checklist-instructions)
 -   [Secure Your Devices](#secure-your-devices)
@@ -10,8 +11,9 @@
         Account](#secure-your-mobile-phone-account)
 -   [Secure your Accounts](#secure-your-accounts)
     -   [Passwords](#passwords)
-    -   [Password managers](#password-managers)
-    -   [Two-factor authentication](#two-factor-authentication)
+    -   [Password Managers](#password-managers)
+    -   [Account Monitoring(#account-monitoring)
+    -   [Two-factor Authentication](#two-factor-authentication)
         -   [SMS-based 2FA (ok; better than
             nothing)](#sms-based-2fa-ok-better-than-nothing)
         -   [Email-based 2FA (better than
@@ -33,6 +35,7 @@
     -   [Social Media Privacy Settings](#social-media-privacy-settings)
     -   [Security Questions](#security-questions)
     -   [Freezing your Credit](#freezing-your-credit)
+    -   [Monitoring your Credit Cards](#monitoring-your-credit-cards)
 -   [Travel Guidelines](#travel-guidelines)
     -   [Physically Secure your Digital
         Assets](#physically-secure-your-digital-assets)
@@ -121,9 +124,9 @@ individuals have dozens of online accounts, so unless you have a
 photographic memory, organizing passwords with the above requirements is
 a tall order. The solution is to use a password manager, which can be
 intimidating; however, integrations with mobile devices and browsers
-have made for a less disruptive user experience.
+have made for a less disruptive user experience. 
 
-## Password managers 
+## Password Managers 
 Password managers such as [1Password](https://1password.com/) and
 [LastPass](https://lastpass.com/) help you create, store and enter
 login credentials for you from within your browser or mobile device.
@@ -156,9 +159,16 @@ cheesy whisk impunity
 
 This is not an exhaustive list of password managers, there are many others
 available. Please make sure you look at how the products manage and react to
-security issues before you select a product. 
+security issues before you select a product.
 
-## Two-factor authentication 
+## Account Monitoring
+Ever wonder if any of your online accounts have been compromised? You can use
+[HaveIBeenPwned](https://haveibeenpwned.com) to lookup your email address to determine 
+if your address - and potentially your password - was discovered in any online breaches.
+Some password managers, specifically 1Password, also integrate with HIBP to give you a 
+visual indicator of accounts and passwords that have shown up in breaches and thus should be changed. 
+
+## Two-factor Authentication 
 **Two-factor** authentication (sometimes called 2FA, "two-step",
 "multi-factor", MFA, or OTP-One Time Passcodes) adds an additional and
 critical step to a website's login process. 2FA systems either use your smartphone or a hardware
@@ -341,6 +351,14 @@ You can also keep tabs on your credit for free by using either [Credit
 Karma](https://www.creditkarma.com/) and/or [Turbo (by
 Intuit)](https://turbo.intuit.com/) who offer apps that provide this service
 in hopes that you'll take advantage of their credit offers.
+
+## Monitoring your Credit Cards
+Keeping up with the charges on your credit cards used to require you to wait for a monthly statement. 
+Now most credit card companies offer individuals the ability to receive notifications when charges
+are made to their accounts. These types of nofications range from SMS or email alerts when charges 
+greater than X are charged to your account. Other providers may also require you use their smartphone
+app to receive these. Check with your credit card provider to find out how you can get the upper hand
+on knowing when when charges are made against your card. 
 
 # Travel Guidelines
 
