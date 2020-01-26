@@ -1,5 +1,7 @@
 # Device & Account Security Checklist
 
+AKA: Security for the rest of us. 
+
 The goal of this checklist is to help regular people figure out what they need
 to do in order to secure their digital life. **Regular** people being those who
 don't live, breathe and fully grasp security concepts but know they need to do more to
