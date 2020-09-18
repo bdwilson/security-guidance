@@ -95,7 +95,12 @@ icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
 protect your web traffic; however, you have no control over what path
 that data travels or what the provider does with the data. HTTPS and
-Secure Websites offer similar protections without cost.
+Secure Websites offer similar protections without cost. One area where
+VPN will help is exposing your home Internet address to potential attackers.
+One such scenario might involve an attacker who sent you a Phishing email
+with an embedded image or link. Clicking on the link or viewing the image can
+tell an attacker where you are coming from and a map to look for other ways
+into your network. 
 
 ## Secure your Mobile Phone Account
 Most phone carriers allow you to set a login PIN that is required in
