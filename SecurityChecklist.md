@@ -65,7 +65,9 @@ updates contain numerous security updates. Attackers frequently take
 advantage of devices and software that have not been updated. Always
 apply your updates as soon as they come out, better yet, set them to
 auto-install. If you're running Windows, make sure it's a supported
-version and that Windows Defender is enabled.
+version and that Windows Defender is enabled (yes, you can still update
+systems from [Windows 8 to Windows 10 for free](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/).
+
 
 ## Consider Using a Chromebook or iPad
 A key technique for reducing the risk of a breach is to reduce your
