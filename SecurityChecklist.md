@@ -83,7 +83,7 @@ If you're using a Chromebook, your data is
 [encrypted](https://support.google.com/chromebook/answer/3438631) in the
 cloud.
 
-## Web Encryption
+## Web Security
 Some websites do not properly enable encryption for all connections.
 Luckily, there is something you can do to make sure your internet
 connections are secure. In your web browser, you should install the
@@ -95,12 +95,20 @@ icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
 protect your web traffic; however, you have no control over what path
 that data travels or what the provider does with the data. HTTPS and
-Secure Websites offer similar protections without cost. One area where
-VPN will help is exposing your home Internet address to potential attackers.
-One such scenario might involve an attacker who sent you a Phishing email
-with an embedded image or link. Clicking on the link or viewing the image can
-tell an attacker where you are coming from and a map to look for other ways
-into your network. 
+Secure Websites offer similar protections without cost. 
+
+One area where one might want to leverage VPN might be in a situation where
+they would rather not disclose their home/Internet location.  When you 
+access a website from home, it discloses your home IP address to the server.
+If the server you're accessing is controlled by an attacker, you've just
+disclosed your location to an attacker. One such scenario might involve an 
+attacker who sent you a Phishing email with an embedded image or link. 
+Clicking on the link or viewing the image could disclose to an attacker 
+where you are coming from and provide that attacker with additional 
+information about you - perhaps if you're running services from your network 
+connection? One way around this without leveraging VPN might be to only
+open overly-suspecious links from a cell phone connected to the provider network
+(not on your home Wifi network). 
 
 ## Secure your Mobile Phone Account
 Most phone carriers allow you to set a login PIN that is required in
