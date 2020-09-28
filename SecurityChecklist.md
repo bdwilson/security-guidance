@@ -35,6 +35,8 @@ AKA: Security for the rest of us.
     -   [Social Media Privacy Settings](#social-media-privacy-settings)
     -   [Security Questions](#security-questions)
     -   [Freezing your Credit](#freezing-your-credit)
+-   [Credit Card Safety](#credit-card-safety)
+    -   [Reducing Credit Card Fraud](#reducing-credit-card-fraud)
     -   [Monitoring your Credit Cards](#monitoring-your-credit-cards)
 -   [Travel Guidelines](#travel-guidelines)
     -   [Physically Secure your Digital
@@ -366,6 +368,13 @@ You can also keep tabs on your credit for free by using either [Credit
 Karma](https://www.creditkarma.com/) and/or [Turbo (by
 Intuit)](https://turbo.intuit.com/) who offer apps that provide this service
 in hopes that you'll take advantage of their credit offers.
+
+# Credit Card Safety
+
+## Reducing Credit Card Fraud
+There are many options available to help you fight credit card fraud. The goal in most of these is to keep your real credit card information away from online retailers - by abstracting the payment process using virtual credit cards or a service such as Apple Pay, the online retailer does not have access to your credit card information. 
+1. Virtual credit cards is a feature that many providers offer that allow users to create and manage one-time or one-site only credit cards.  Captial One has one such feature called ENO that has a browser plugin to do just this; other providers may offer something similar.  If your credit card provider does not do this, [Privacy.com](https://privacy.com) has a service that will do this for free, however you must link your Debit or Checking account to the service and make payments from it. 
+2. Use a payment service vs. providing your credit card directly to a online retailer. These services are a middle man between you and the retailer, thus making it so the retailer does not have access to your original credit card information.
 
 ## Monitoring your Credit Cards
 Keeping up with the charges on your credit cards used to require you to wait for a monthly statement. 
