@@ -104,6 +104,7 @@ protect your web traffic, but that's not always the case ([see below](#vpn---pro
 delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed.
 
 ### DNS Security
+**Warning, this an advanced stuff. Most people can skip this.**
 Some may wish to block additional content, or apply security controls to all 
 systems within their home network. One such way to accomplish this is by altering
 your DNS configurations on your router. DNS stands for Domain Name Services and it's
