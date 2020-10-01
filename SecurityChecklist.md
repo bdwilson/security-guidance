@@ -6,7 +6,7 @@ AKA: Security for the rest of us.
     -   [Consider Using a Chromebook or
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
-    -   [Web Encryption](#web-encryption)
+    -   [Web Security](#web-security)
         - [VPN - Provider/Subscription](#vpn---providersubscription)
         - [VPN - Personal](#vpn---personal)
     -   [Secure your Mobile Phone
