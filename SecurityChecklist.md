@@ -7,8 +7,8 @@ AKA: Security for the rest of us.
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
     -   [Web Encryption](#web-encryption)
-        - [VPN - Provider/Subscription](#vpn-provider-subscription)
-        - [VPN - Personal](#vpn-personal)
+        - [VPN - Provider/Subscription](#vpn---providersubscription)
+        - [VPN - Personal](#vpn---personal)
     -   [Secure your Mobile Phone
         Account](#secure-your-mobile-phone-account)
 -   [Secure your Accounts](#secure-your-accounts)
