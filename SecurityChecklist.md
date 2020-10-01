@@ -7,6 +7,7 @@ AKA: Security for the rest of us.
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
     -   [Web Security](#web-security)
+        - [DNS Security](#dns-security)
         - [VPN - Provider/Subscription](#vpn---providersubscription)
         - [VPN - Personal](#vpn---personal)
     -   [Secure your Mobile Phone
@@ -102,6 +103,21 @@ insecure. You may hear people mention personal VPN accounts as a way to
 protect your web traffic, but that's not always the case ([see below](#vpn---providersubscription)). Websites 
 delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed.
 
+### DNS Security
+Some may wish to block additional content, or apply security controls to all 
+systems within their home network. One such way to accomplish this is by altering
+your DNS configurations on your router. DNS stands for Domain Name Services and it's
+the global system for mapping a name (www.google.com) to an IP address (8.8.8.8). By using 
+a DNS server different than the one provided by your ISP, you can alter the ability for
+systems on your network to _resolve_ certain names, thus limiting the ability for individuals
+on your network to access any site since you control what names get resolved. 
+
+As far as content blocking, applying security, or privacy controls to the web traffic at your home, 
+you should review the options [outlined here](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/) to
+see what options are right for you and your home. Another more turn-key option is to use a service like [NextDNS](https://nextdns.io/) that
+provides personalized DNS filters catered to your needs, and allows you to have different profiles depending on if your need is
+security-related, or goal is to limit content from others in your home.  If your goal is to block adverstisements - and thus limit ad tracking - then [PiHole](https://pi-hole.net/) is a more advanced option to give you similar results as NextDNS, but at home.
+
 ### VPN - Provider/Subscription 
 **Warning, this an advanced stuff. Most people can skip this.**
 VPN stands for virtual private networking - this is technology that allows you
@@ -128,7 +144,7 @@ open overly-suspecious links from a mobile phone connected to the cellular provi
 
 The marketing budgets for VPN Providers is huge, so you will see lots of articles and recommendations
 made about various providers with referral kick-backs. If you insist on protecting your home Internet
-browsing with a VPN, we'd recommend you run your own in the cloud (see VPN - Personal section below).
+browsing with a VPN, we'd recommend you run your own in the cloud ([see below](#vpn---personal).
 
 ### VPN - Personal 
 **Warning, this an advanced stuff. Most people can skip this.**
