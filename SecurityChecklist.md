@@ -101,7 +101,7 @@ reputable services use secure connections by default. Look for the LOCK
 icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
 protect your web traffic, but that's not always the case ([see below](#vpn---providersubscription)). Websites 
-delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed.
+delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed. Below are some more advan ced methods of helping improve your overall security and privacy when browsing the web at home.
 
 ### DNS Security
 **Warning, this an advanced stuff. Most people can skip this.**
