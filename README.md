@@ -15,10 +15,9 @@ you likely want to go beyond what this document can offer in terms of advice.
 * [Device & Account Checklist](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
 
 # Contributions & Corrections 
-If you have corrections that pertain to **regular** people or any
+If you have corrections that pertain to **regular**, or more **advanced** users or any
 formatting/gramatical errors, please let me know via an issue or fork the document and issue
-pull requests to fix. Keep in mind regular likely don't need VPN's because TLS is so
-pervasive, hence why that is not included. 
+pull requests to fix. 
 
 # Credits 
  * [Bob Lord](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
