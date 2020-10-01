@@ -7,6 +7,8 @@ AKA: Security for the rest of us.
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
     -   [Web Encryption](#web-encryption)
+        - [VPN - Provider/Subscription](#VPN-Provider-Subscription)
+        - [VPN - Personal](#VPN-Personal)
     -   [Secure your Mobile Phone
         Account](#secure-your-mobile-phone-account)
 -   [Secure your Accounts](#secure-your-accounts)
@@ -90,29 +92,49 @@ cloud.
 ## Web Security
 Some websites do not properly enable encryption for all connections.
 Luckily, there is something you can do to make sure your internet
-connections are secure. In your web browser, you should install the
+connections are secure. In your web browser, you can install the
 [HTTPS Everywhere](https://www.eff.org/https-everywhere) extension.
 HTTPS Everywhere is a Firefox, Chrome, and Opera extension that
 strengthens the encryption between your device and major websites. Most
 reputable services use secure connections by default. Look for the LOCK
 icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
-protect your web traffic; however, you have no control over what path
-that data travels or what the provider does with the data. HTTPS and
-Secure Websites offer similar protections without cost. 
+protect your web traffic, but that's not always the case ([see below](#VPN-Provider-Subscription)). Websites 
+delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed.
 
-One area where one might want to leverage VPN might be in a situation where
+### VPN - Provider/Subscription 
+**Warning, this an advanced stuff. Most people can skip this.**
+VPN stands for virtual private networking - this is technology that allows you
+to tunnel network traffic so that it enters and exists via another location. Think
+of it like a tunnel going under a treacherous war zone - you can pass without being
+subjected to any of the threats within that zone. A VPN provider provides you a with a
+similiar connection allowing you to __securely__ send all your traffic through that connection, 
+thus limiting your Internet Service Providers' ability to snoop on the traffic. The issue is that
+you have no control over what path that data travels after it leaves your VPN provider, nor
+can you control or validate what the VPN provider does with the data they __do__ know about you.
+
+One area where one might want to leverage VPN Provider might be in a situation where
 they would rather not disclose their home/Internet location.  When you 
-access a website from home, it discloses your home IP address to the server.
-If the server you're accessing is controlled by an attacker, you've just
+access a website from home, it discloses your home IP address to the server serving the
+web traffic. If the server you're accessing is controlled by an attacker, you've just
 disclosed your location to an attacker. One such scenario might involve an 
 attacker who sent you a Phishing email with an embedded image or link. 
 Clicking on the link or viewing the image could disclose to an attacker 
 where you are coming from and provide that attacker with additional 
 information about you - perhaps if you're running services from your network 
-connection? One way around this without leveraging VPN might be to only
+connection? One way around this without leveraging a paid VPN Provider might be to only
 open overly-suspecious links from a cell phone connected to the provider network
 (not on your home Wifi network). 
+
+The marketing budgets for VPN Providers is huge, so you will see lots of articles and recommendations
+made about various providers with referral kick-backs. If you insist on protecting your home Internet
+browsing with a VPN, we'd recommend you run your own in the cloud (see VPN - Personal section below).
+
+### VPN - Personal 
+**Warning, this an advanced stuff. Most people can skip this.**
+If you're concerned about securing your network traffic on-the-go, you could run your own
+VPN server at home. Some individuals also run their own VPN server with a cloud service provider.
+This is not for the faint of heart, however there are many options available: [PiVPN](https://www.pivpn.io/), [Replace your VPN Provider with Wireguard at a Cloud Provider](https://medium.com/@drew2a/replace-your-vpn-provider-by-setting-up-wireguard-on-digitalocean-6954c9279b17), as well as some home routers also feature VPN capablities. Opening up your home network to run a VPN server could introduce some risks, so make sure you understand the implications before going out on your own. 
 
 ## Secure your Mobile Phone Account
 Most phone carriers allow you to set a login PIN that is required in
