@@ -5,7 +5,8 @@ AKA: Security for the rest of us.
 The goal of this checklist is to help regular people figure out what they need
 to do in order to secure their digital life. **Regular** people being those who
 don't live, breathe and fully grasp security concepts but know they need to do more to
-protect themselves and their families from cyber threats.
+protect themselves and their families from cyber threats. We have added some more **advanced** 
+options for people who want even more control, however those have disclaimers at the beginning of each section. 
 
 If you are in the information security field or have other responsiblities that might
 increase your cyber risks (wealth, popular, social media influencer, etc) then
