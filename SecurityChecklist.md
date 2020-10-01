@@ -99,7 +99,7 @@ strengthens the encryption between your device and major websites. Most
 reputable services use secure connections by default. Look for the LOCK
 icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
-protect your web traffic, but that's not always the case ([see below](#VPN-Provider-Subscription)). Websites 
+protect your web traffic, but that's not always the case ([see below](#vpn---providersubscription)). Websites 
 delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed.
 
 ### VPN - Provider/Subscription 
@@ -108,7 +108,7 @@ VPN stands for virtual private networking - this is technology that allows you
 to tunnel network traffic so that it enters and exists via another location. Think
 of it like a tunnel going under a treacherous war zone - you can pass without being
 subjected to any of the threats within that zone. A VPN provider provides you a with a
-similiar connection allowing you to __securely__ send all your traffic through that connection, 
+similiar connection allowing you to _securely_ send all your traffic through that connection, 
 thus limiting your Internet Service Providers' ability to snoop on the traffic. The issue is that
 you have no control over what path that data travels after it leaves your VPN provider, nor
 can you control or validate what the VPN provider does with the data they __do__ know about you.
@@ -123,7 +123,7 @@ Clicking on the link or viewing the image could disclose to an attacker
 where you are coming from and provide that attacker with additional 
 information about you - perhaps if you're running services from your network 
 connection? One way around this without leveraging a paid VPN Provider might be to only
-open overly-suspecious links from a cell phone connected to the provider network
+open overly-suspecious links from a mobile phone connected to the cellular provider network
 (not on your home Wifi network). 
 
 The marketing budgets for VPN Providers is huge, so you will see lots of articles and recommendations
