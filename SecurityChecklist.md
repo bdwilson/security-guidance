@@ -7,8 +7,8 @@ AKA: Security for the rest of us.
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
     -   [Web Encryption](#web-encryption)
-        - [VPN - Provider/Subscription](#VPN-Provider-Subscription)
-        - [VPN - Personal](#VPN-Personal)
+        - [VPN - Provider/Subscription](#vpn---provider-subscription)
+        - [VPN - Personal](#vpn---personal)
     -   [Secure your Mobile Phone
         Account](#secure-your-mobile-phone-account)
 -   [Secure your Accounts](#secure-your-accounts)
@@ -134,7 +134,7 @@ browsing with a VPN, we'd recommend you run your own in the cloud (see VPN - Per
 **Warning, this an advanced stuff. Most people can skip this.**
 If you're concerned about securing your network traffic on-the-go, you could run your own
 VPN server at home. Some individuals also run their own VPN server with a cloud service provider.
-This is not for the faint of heart, however there are many options available: [PiVPN](https://www.pivpn.io/), [Replace your VPN Provider with Wireguard at a Cloud Provider](https://medium.com/@drew2a/replace-your-vpn-provider-by-setting-up-wireguard-on-digitalocean-6954c9279b17), as well as some home routers also feature VPN capablities. Opening up your home network to run a VPN server could introduce some risks, so make sure you understand the implications before going out on your own. 
+This is not for the faint of heart, however there are many options available: [PiVPN](https://www.pivpn.io/), [Replace your VPN Provider with Wireguard at a Cloud Provider](https://medium.com/@drew2a/replace-your-vpn-provider-by-setting-up-wireguard-on-digitalocean-6954c9279b17). Some home routers also feature VPN capablities, so you can check to see if your router supports this feature. Opening up your home network to run a VPN server could introduce some risks, so make sure you understand the implications before going out on your own. 
 
 ## Secure your Mobile Phone Account
 Most phone carriers allow you to set a login PIN that is required in
