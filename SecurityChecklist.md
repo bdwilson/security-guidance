@@ -3,6 +3,7 @@ AKA: Security for the rest of us.
 
 -   [Checklist Instructions](#checklist-instructions)
 -   [Secure Your Devices](#secure-your-devices)
+    -   [Network Security](#network-security)
     -   [Consider Using a Chromebook or
         iPad](#consider-using-a-chromebook-or-ipad)
     -   [Laptop Disk Encryption](#laptop-disk-encryption)
