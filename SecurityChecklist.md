@@ -424,7 +424,7 @@ Now most credit card companies offer individuals the ability to receive notifica
 are made to their accounts. These types of nofications range from SMS or email alerts when charges 
 greater than X are charged to your account. Other providers may also require you use their smartphone
 app to receive these. Check with your credit card provider to find out how you can get the upper hand
-on knowing when when charges are made against your card. 
+on knowing when charges are made against your card. 
 
 # Travel Guidelines
 
