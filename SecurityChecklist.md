@@ -71,8 +71,10 @@ advantage of devices and software that have not been updated. Always
 apply your updates as soon as they come out, better yet, set them to
 auto-install. If you're running Windows, make sure it's a supported
 version and that Windows Defender is enabled (yes, you can still update
-systems from [Windows 8 to Windows 10 for free](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/).
+systems from [Windows 8 to Windows 10 for free](https://www.zdnet.com/article/heres-how-you-can-still-get-a-free-windows-10-upgrade/). 
 
+## Network Security 
+Keeping your devices up-to-date also includes your router and wireless access points. These types of devices frequently have firmware updates that introduce new features as well as fix security bugs. You should check for updates at least yearly on these devices. It's also important to configure your router to to not allow Internet traffic with access to the services **inside** your network - by default, your router should be configured in this manner. You can [check your firewall](https://routersecurity.org/testrouter.php#FirewallTesters) using any number of online-tools (the Shodan.io and Censys.io links here are two good ones to start with). It's also crucial that you keep your wireless network devices secured with at least WPA2-AES PSK. Some routers offer an optional MAC address filtering capability, however this feature doesn't add any real security as an attacker can wirelessly _snoop_ in order to determine which MAC addresses can join that network, and then _spoof_ a valid MAC address. 
 
 ## Consider Using a Chromebook or iPad
 A key technique for reducing the risk of a breach is to reduce your
@@ -101,7 +103,7 @@ reputable services use secure connections by default. Look for the LOCK
 icon and stay away from sites labeled as
 insecure. You may hear people mention personal VPN accounts as a way to
 protect your web traffic, but that's not always the case ([see below](#vpn---providersubscription)). Websites 
-delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed. Below are some more advan ced methods of helping improve your overall security and privacy when browsing the web at home.
+delivered by HTTPS offer similar protections without cost, thus VPN subscriptions are rarely needed. Below are some more advanced methods of helping improve your overall security and privacy when browsing the web at home.
 
 ### DNS Security
 **Warning, this an advanced stuff. Most people can skip this.**
