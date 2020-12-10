@@ -379,7 +379,7 @@ users more control over their privacy settings and those can be
 Consumer Reports has produced a [guide to help you tune the
 settings.](https://www.consumerreports.org/privacy/facebook-privacy-settings/)
 Instagram, Twitter and Snapchat privacy settings [should also be
-reviewed](mailto:http://www.respectteam.com/blog/social-media-privacy-facebook-instagram-twitter-and-snapchat/),
+reviewed](http://www.respectteam.com/blog/social-media-privacy-facebook-instagram-twitter-and-snapchat/),
 especially if you have children using these services.
 
 ## Security Questions
@@ -406,7 +406,7 @@ guide](https://www.consumer.ftc.gov/blog/2018/09/free-credit-freezes-are-here)
 on how to do this for yourself and other family members, however they
 fail to include the smaller two agencies that should also be reviewed.
 Those may be found
-[here](mailto:https://www.nerdwallet.com/blog/finance/pros-and-cons-freezing-credit/).
+[here](https://www.nerdwallet.com/blog/finance/pros-and-cons-freezing-credit/).
 If you're looking for a detailed document on how to freeze the credit of a
 minor, this is detailed
 [here](https://brianwilson.us/2019-04-02-Credit-Protections-for-Minors/). 
