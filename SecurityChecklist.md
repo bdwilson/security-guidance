@@ -13,6 +13,7 @@ AKA: Security for the rest of us.
         - [VPN - Personal](#vpn---personal)
     -   [Secure your Mobile Phone
         Account](#secure-your-mobile-phone-account)
+    -   [Secure your Child's Devices](#secure-your-childs-devices)
 -   [Secure your Accounts](#secure-your-accounts)
     -   [Passwords](#passwords)
     -   [Password Managers](#password-managers)
@@ -122,7 +123,7 @@ on your network to access any site since you control what names get resolved.
 
 As far as content blocking, applying security, or privacy controls to the web traffic at your home, 
 you should review the options [outlined here](https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/) to
-see what options are right for you and your home. Another more turn-key option is to use a service like [NextDNS](https://nextdns.io/) that
+see what options are right for you and your home. Another more turn-key option is to use a service like [NextDNS](https://nextdns.io/?from=7ujczy3g) that
 provides personalized DNS filters catered to your needs, and allows you to have different profiles depending on if your need is
 security-related, or goal is to limit content from others in your home.  If your goal is to block adverstisements - and thus limit ad tracking - then [PiHole](https://pi-hole.net/) is a more advanced option to give you similar results as NextDNS, but at home.
 
@@ -152,7 +153,7 @@ open overly-suspecious links from a mobile phone connected to the cellular provi
 
 The marketing budgets for VPN Providers is huge, so you will see lots of articles and recommendations
 made about various providers with referral kick-backs. If you insist on protecting your home Internet
-browsing with a VPN, we'd recommend you run your own in the cloud ([see below](#vpn---personal).
+browsing with a VPN, we'd recommend you run your own in the cloud ([see below](#vpn---personal)).
 
 ### VPN - Personal 
 **Warning, this an advanced stuff. Most people can skip this.**
@@ -168,6 +169,14 @@ attackers to take over your account ("called SIM-swap attacks"), and
 anything protected by your phone number or linked to SMS. Even if they
 guess your name and password, they will still need your PIN to access
 and make changes to your account.
+
+## Secure your Child's Devices
+**This section is a work in progress; these items should also be considered advanced. These tools are not meant to replace talking to your children about their security and what you're doing to protect them as a parent.**
+For iOS Devices, [ScreenTime](https://www.imore.com/how-set-screen-time-your-child) is one of the best options to limit what your child can do and when. You can restrict them to only having access to certain contacts, apps, and content at certain times. You can also combine this with a [NextDNS](https://nextdns.io/?from=7ujczy3g) subscrition and app (with passcode), and you can have even more parental control of the content your children can access. NextDNS also recently added configuration options specific to parental controls that adds recreation time options.  
+
+If you want even more control over your child's device, you can enroll their mobile devices into a Mobile Device Management system. [ManageEngine](https://mdm.manageengine.com/) allows free enrollment of 25 devices on their platform. This gives you control of policies on devices - force updates, passcodes, see what apps are installed, geo tracking options. This is similar to what ScreenTime can do, but can apply the settings remotely without having to have the devices in your hand. You can also change configuration options like disallowing their devices to configure VPN, only connect to Wifi networks you provision, etc. These types of settings can key to keeping your child's device compliant. 
+
+There are also purpose-built child device management platforms like [Bark](https://www.bark.us/signup?ref=5JDFMHY) that can get into areas like monitoring your child's SMS messages, emails, and has cyberbullying filtering. Their plans also include advanced web filtering similar to services like [NextDNS](https://nextdns.io/?from=7ujczy3g).
 
 # Secure your Accounts
 ## Passwords 
