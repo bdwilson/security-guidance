@@ -176,7 +176,7 @@ For iOS Devices, [ScreenTime](https://www.imore.com/how-set-screen-time-your-chi
 
 If you want even more control over your child's device, you can enroll their mobile devices into a Mobile Device Management system. [ManageEngine](https://mdm.manageengine.com/) allows free enrollment of 25 devices on their platform. This gives you control of policies on devices - force updates, passcodes, see what apps are installed, geo tracking options. This is similar to what ScreenTime can do, but can apply the settings remotely without having to have the devices in your hand. You can also change configuration options like disallowing their devices to configure VPN, only connect to Wifi networks you provision, etc. These types of settings can key to keeping your child's device compliant. 
 
-There are also purpose-built child device management platforms like [Bark](https://www.bark.us/signup?ref=5JDFMHY) that can get into areas like monitoring your child's SMS messages, emails, and has cyberbullying filtering. Their plans also include advanced web filtering similar to services like [NextDNS](https://nextdns.io/?from=7ujczy3g).
+There are also purpose-built child device management platforms like [Bark](https://www.bark.us/signup?ref=5JDFMHY) and [Qustodio](https://www.qustodio.com/en/) that can get into areas like monitoring your child's SMS messages, emails, and has cyberbullying filtering. Their plans also include advanced web filtering similar to services like [NextDNS](https://nextdns.io/?from=7ujczy3g).
 
 # Secure your Accounts
 ## Passwords 
