@@ -35,6 +35,7 @@ AKA: Security for the rest of us.
     -   [Apple Account Security](#apple-account-security)
 -   [Social, Privacy, and Identity](#social-privacy-and-identity)
     -   [Verify, then Trust](#verify-then-trust)
+    -   [Data Brokers](#data-brokers)
     -   [Important Online Accounts to
         Claim](#important-online-accounts-to-claim)
     -   [Social Media Privacy Settings](#social-media-privacy-settings)
