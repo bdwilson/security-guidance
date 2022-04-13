@@ -369,6 +369,9 @@ you to transfer money -- verify the identity of the person waiting
 outside your building before letting them in. Don't let yourself become
 the vulnerability!
 
+## Data Brokers
+There are hunderds of companies out there that collect and sell your personal information. Free services are never really free and use your personal information to track your buying and browsing habits. You can search for your name and town and find some of the many results that these providers make freely available - with much more information about you available at little cost. Information such as your mothers maiden name, cars you've owned, relatives, properties you've owned, phone numbers. The list goes on and on, but for a few dollars, anyone can find out additional information about you that can put your online accounts at risk. These data brokers make it next to impossible to remove your information from their databases - some requiring physical letters to validate you are who you say you are. They intentially make it difficult so that you won't do it. Luckily there are services out there like [DeleteMe](https://joindeleteme.com/refer?coupon=RFR-167927-E62NDF) that can do this for you. It's not cheap, but it's worth it to keep tabs on what people may know about you. For a humorous look at Data Brokers, John Oliver did a segment on Last Week Tonight that you can watch [here](https://youtu.be/wqn3gR1WTcA). 
+
 ## Important Online Accounts to Claim
 Below are a few common accounts which individuals should *pre-claim* so
 that you can maintain your identity with these providers. 
