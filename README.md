@@ -13,6 +13,7 @@ increase your cyber risks (wealth, popular, social media influencer, etc) then
 you likely want to go beyond what this document can offer in terms of advice. 
 
 * [Device & Account Checklist](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
+* [So you want to be a Cybersecurity Professional?](https://github.com/bdwilson/security-checklist/blob/master/CareerDay.md)
 
 # Contributions & Corrections 
 If you have corrections that pertain to **regular**, or more **advanced** users or any
