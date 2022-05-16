@@ -1,7 +1,6 @@
-# Device & Account Security Checklist
+# Security Guidance 
 
-AKA: Security for the rest of us. 
-
+## Device & Account Security Checklist 
 The goal of this checklist is to help regular people figure out what they need
 to do in order to secure their digital life. **Regular** people being those who
 don't live, breathe and fully grasp security concepts but know they need to do more to
@@ -13,7 +12,10 @@ increase your cyber risks (wealth, popular, social media influencer, etc) then
 you likely want to go beyond what this document can offer in terms of advice. 
 
 * [Device & Account Checklist](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
-* [So you want to be a Cybersecurity Professional?](https://github.com/bdwilson/security-checklist/blob/master/CareerDay.md)
+
+## Career Guidance
+* [So you want to be a Cybersecurity Professional?](https://github.com/bdwilson/security-checklist/blob/master/CareerDay.md) - Guidance tailored to middle school students about a career in Cybersecurity
+* [Mentorship Notes](https://github.com/bdwilson/security-checklist/blob/master/SecurityMentorNotes.md) - I frequently meet with individuals who are early career Cybersecurity candidates or second career individuals looking to transition into Cybersecurity.
 
 # Contributions & Corrections 
 If you have corrections that pertain to **regular**, or more **advanced** users or any
