@@ -34,3 +34,7 @@ Children are not immune to Cybersecurity threats and must be aware of common ris
 * Don’t fall for advertisements or unsolicited emails offering something that seems too good to be true. 
 
 You may find additional ways you can protect yourself and your family here: https://github.com/bdwilson/security-checklist 
+
+## Additional Educational Resources 
+* [Stay Safe Online](https://staysafeonline.org/)
+
