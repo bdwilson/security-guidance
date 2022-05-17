@@ -31,8 +31,8 @@
 * Do you like to learn? Cybersecurity challenges change daily, so there is always a new threat or technique to learn. 
 
 ## Why choose Cybersecurity?
-* There is a global shortage of Cybersecurity talent (400k open cyber positions in the US in 2021).
-* Pay is competitive. Starting salaries are around $60k/yr. Average salary is $120k/yr.
+* There is a global shortage of Cybersecurity talent (400k open cyber positions in the US in 2021). [[1]](#1).
+* Pay is competitive. Starting salaries are around $60k/yr. Average salary is $120k/yr. [[1]](#1).
 * Many colleges have degrees focused on Cybersecurity.
 * Much of the work can be done remotely/from home.
 
@@ -55,3 +55,7 @@ You may find additional ways you can protect yourself and your family here: http
 * [Stay Safe Online](https://staysafeonline.org/) - National Cybersecurity Alliance - Tip sheets, Videos, Infographics about keeping you safe online.
 * See [Security Mentor Notes](SecurityMentorNotes.md) for more information about things to think about when you consider a career in Cybersecurity.
 
+
+
+## References
+<a id="1">[1]</a> [ISC2 2021 Workforce Study](https://www.isc2.org/-/media/ISC2/Research/2021/ISC2-Cybersecurity-Workforce-Study-2021.ashx)
