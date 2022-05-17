@@ -18,7 +18,7 @@ you likely want to go beyond what this document can offer in terms of advice.
 * [Mentorship Notes](https://github.com/bdwilson/security-checklist/blob/master/SecurityMentorNotes.md) - I frequently meet with individuals who are early career Cybersecurity candidates or second career individuals looking to transition into Cybersecurity. These are notes I've made to provide them with guidance. 
 
 ## Contact, Contributions & Corrections
-If you have questions about the content or questions about a career in Cybersecurity, feel free to reach out to me on [Twitter](https://twitter.com/brianwilson), you may email me at **My Github Username @ gmail.com**, or contact me via [LinkedIn](https://linkedin.com/in/bdwilson). For 
+If you have questions about the content or questions about a career in Cybersecurity, feel free to reach out to me on [Twitter](https://twitter.com/brianwilson), you may email me at **My Github Username @ gmail.com**, or contact me via [LinkedIn](https://linkedin.com/in/bdwilson). 
 
 If you have corrections that pertain to **regular**, or more **advanced** users or any
 formatting/gramatical errors, please let me know via an issue or fork the document and issue
