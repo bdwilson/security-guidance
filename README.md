@@ -23,10 +23,3 @@ If you have questions about the content or questions about a career in Cybersecu
 If you have corrections that pertain to **regular**, or more **advanced** users or any
 formatting/gramatical errors, please let me know via an issue or fork the document and issue
 pull requests to fix. 
-
-# Credits 
- * [Bob Lord](https://medium.com/@boblord/device-and-account-security-checklist-2-0-1f3637eec1c)
-for his work on the Device and Account Security checklist that he put together
-for the DNC that this is based off of. I started with this as a template and
-have adapated it as others ask me the best way to do things. 
-
