@@ -14,8 +14,8 @@ you likely want to go beyond what this document can offer in terms of advice.
 * [Device & Account Checklist](https://github.com/bdwilson/security-checklist/blob/master/SecurityChecklist.md)
 
 ## Career Guidance
-* [So you want to be a Cybersecurity Professional?](https://github.com/bdwilson/security-checklist/blob/master/CareerDay.md) - Guidance tailored to middle school students about a career in Cybersecurity
-* [Mentorship Notes](https://github.com/bdwilson/security-checklist/blob/master/SecurityMentorNotes.md) - I frequently meet with individuals who are early career Cybersecurity candidates or second career individuals looking to transition into Cybersecurity.
+* [So you want to be a Cybersecurity Professional?](https://github.com/bdwilson/security-checklist/blob/master/CareerDay.md) - Guidance tailored to middle school students considering a career in Cybersecurity
+* [Mentorship Notes](https://github.com/bdwilson/security-checklist/blob/master/SecurityMentorNotes.md) - I frequently meet with individuals who are early career Cybersecurity candidates or second career individuals looking to transition into Cybersecurity. These are notes I've made to provide them with guidance. 
 
 ## Contact, Contributions & Corrections
 If you have questions about the content or questions about a career in Cybersecurity, feel free to reach out to me on [Twitter](https://twitter.com/brianwilson), you may email me at **My Github Username @ gmail.com**, or contact me via [LinkedIn](https://linkedin.com/in/bdwilson). For 
