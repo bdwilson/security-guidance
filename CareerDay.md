@@ -47,7 +47,7 @@ Children are not immune to Cybersecurity threats and must be aware of common ris
 * Speak up if you see something inappropriate or suspicious. Tell an adult you trust. 
 * Don’t fall for advertisements or unsolicited emails offering something that seems too good to be true. 
 
-You may find additional ways you can protect yourself and your family here: https://github.com/bdwilson/security-checklist 
+You may find additional ways you can protect yourself and your family here: https://github.com/bdwilson/security-guidance/blob/master/SecurityChecklist.md
 
 ## Additional Educational Resources 
 * [US Cyber Challenge](https://www.uscyberchallenge.org/) - Geared towards high school and college students interested in Cybersecurity. 
