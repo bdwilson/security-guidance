@@ -43,7 +43,7 @@ Children are not immune to Cybersecurity threats and must be aware of common ris
    * Do not use the same passwords across different Internet sites.
 * Think twice before you post or say anything online. 
 * Treat others as you want to be treated. You are accountable for your actions, even if those actions are online. 
-* Don’t answer calls or text messages from anyone you don’t trust. A predetor may be trying to gain your trust by pretending to be someone they are not. 
+* Ask an adult your trust before answering calls or text messages from anyone you don’t trust. A predetor may be trying to gain your trust by pretending to be someone they are not. 
 * Speak up if you see something inappropriate or suspicious. Tell an adult you trust. 
 * Don’t fall for advertisements or unsolicited emails offering something that seems too good to be true. 
 
