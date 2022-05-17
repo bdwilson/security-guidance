@@ -52,6 +52,6 @@ You may find additional ways you can protect yourself and your family here: http
 ## Additional Educational Resources 
 * [US Cyber Challenge](https://www.uscyberchallenge.org/) - Geared towards high school and college students interested in Cybersecurity. 
 * [Cybersecurity Career Guide](https://cybersecurityguide.org/careers/) - Career guide to see if Cybersecurity is right for you. 
-* [Stay Safe Online](https://staysafeonline.org/) - National Cybersecurity Alliance - Tip sheets, Videos, Infographics. 
-* 
+* [Stay Safe Online](https://staysafeonline.org/) - National Cybersecurity Alliance - Tip sheets, Videos, Infographics about keeping you safe online.
+* See [Security Mentor Notes](SecurityMentorNotes.md) for more information about things to think about when you consider a career in Cybersecurity.
 
