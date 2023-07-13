@@ -38,7 +38,7 @@ COVID pushed many security conferences to virtual (and made many free), so make 
 ## Get Trained
 Many security consultancy firms leverage their expertise to help grow the career of other infosec professionals and offer “pay what you can” training (or at least signficantly discounted). Some of the companies doing this: [SecureIdeas](https://training.secureideas.com/), [BlackHills Information Security/Antisyphon](https://www.antisyphontraining.com/), [TCM Training](https://academy.tcm-sec.com/). There are much larger organizations, like SANS that has great training opportunities, but the pricing is not advantagous to pay on your own if you're early in your career or want to test the waters. SANS has also discontinued their free training, but have linked to some [free](https://www.sans.org/cyberaces/) resources. 
 
-## Online Courses 
+### Online Courses 
 Both Coursera and EduX have several options which are available for free (to audit). I have not taken these or received feedback on any of these, so if you do take these, please provide me feedback so I can share. I also found a [list of courses](https://builtin.com/cybersecurity/cybersecurity-training) available from BuiltIn. Don't forget to look for discounts! 
 
 * https://www.coursera.org/specializations/it-fundamentals-cybersecurity 
@@ -57,7 +57,6 @@ Many colleges have recognized the talent gap in cybersecurity and are using this
 
 ## Test your skills
 There is a ton of free resources on the Internet and a robust community of people dedicated to curating them. One example is [here](https://github.com/vitalysim/Awesome-Hacking-Resources). You can also find several reasonable penetration testing lab websites to virtually test your skills to see if you have what it takes in different security arenas. HackTheBox and TryHackMe are two online providers you can read about [here](https://defaultcredentials.com/ctf/tryhackme-vs-hackthebox-cybersecurity-training/) and both offer free tiers for you to do hands-on hacking. There is certainly an expectation that you need at least general IT skills to start, even with the basic levels, so ensuring you have a good technology foundation. For High School and College-aged folks, the [US Cyber Challenge](https://www.uscyberchallenge.org/) is a good option to test your skills and get hired by the government. 
-
 
 # Interview/Resume Tips
 * For new career cybersecurity individuals who lack direct cybersecurity experience but have past business experience, highlight your qualities that made you successful in your past career. Soft skills matter in this industry, so talk about collaboration, organization, delegation, leadership, critical thinking, etc. I would prefer to train someone on the security technologies we are using then to have to train them on soft skills.  You can always relate past projects and how you organized your thoughts to any situation that an interviewer throws at you. 
