@@ -44,8 +44,8 @@ Both Coursera and EduX have several options which are available for free (to aud
 * https://www.coursera.org/specializations/it-fundamentals-cybersecurity 
 * https://www.coursera.org/learn/introduction-to-cybersecurity-essentials
 * https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks
+* https://www.coursera.org/google-certificates/cybersecurity-certificate
 * https://www.edx.org/course/introduction-to-cybersecurity-3
-* https://www.edx.org/course/introduction-to-cybersecurity
 
 If you take a course, even a free one, make sure you keep track of your hours spent, curriculum learned, and how you applied what you learned (see [Test Your Skills](#Test_Your_Skills) below). This may help contribute to hands-on work that you can put on your resume, at a minumum you can list the courses and hours completed on your resume.
 
