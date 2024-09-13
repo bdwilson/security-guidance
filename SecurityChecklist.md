@@ -41,6 +41,7 @@ AKA: Security for the rest of us.
     -   [Social Media Privacy Settings](#social-media-privacy-settings)
     -   [Security Questions](#security-questions)
     -   [Freezing your Credit](#freezing-your-credit)
+    -   [Do Not Contact](#do-not-contact)
 -   [Credit Card Safety](#credit-card-safety)
     -   [Reducing Credit Card Fraud](#reducing-credit-card-fraud)
     -   [Monitoring your Credit Cards](#monitoring-your-credit-cards)
@@ -428,6 +429,9 @@ You can also keep tabs on your credit for free by using either [Credit
 Karma](https://www.creditkarma.com/) and/or [Turbo (by
 Intuit)](https://turbo.intuit.com/) who offer apps that provide this service
 in hopes that you'll take advantage of their credit offers.
+
+## Do Not Contact
+[FTC also has a great guide](https://consumer.ftc.gov/unwanted-calls-emails-texts) on how to opt out of junk calls, junk mail, spam email and texts if you're in the US. Some of them charge a "processing fee", but it may be worth it depending on how much junk you get. I don't know how well these work, but it's certainly an option. There is also an option for removing deceased family members from junk mail lists. 
 
 # Credit Card Safety
 
