@@ -16,6 +16,7 @@ AKA: Security for the rest of us.
     -   [Secure your Child's Devices](#secure-your-childs-devices)
 -   [Secure your Accounts](#secure-your-accounts)
     -   [Passwords](#passwords)
+    -   [Passkeys](#passkeys)
     -   [Password Managers](#password-managers)
     -   [Account Monitoring](#account-monitoring)
     -   [Two-factor Authentication](#two-factor-authentication)
@@ -153,9 +154,9 @@ connection? One way around this without leveraging a paid VPN Provider might be 
 open overly-suspecious links from a mobile phone connected to the cellular provider network
 (not on your home Wifi network). 
 
-The marketing budgets for VPN Providers is huge, so you will see lots of articles and recommendations
+The marketing budgets for VPN Providers are huge, so you will see lots of articles and recommendations
 made about various providers with referral kick-backs. If you insist on protecting your home Internet
-browsing with a VPN, we'd recommend you run your own in the cloud ([see below](#vpn---personal)).
+browsing with a VPN, we'd recommend you run your own in the cloud ([see below](#vpn---personal)).  I do have friends in the security community that have good things to say about [iVPN](https://www.ivpn.net). Do your own research, or run your own below.
 
 ### VPN - Personal 
 **Warning, this an advanced stuff. Most people can skip this.**
@@ -171,6 +172,8 @@ attackers to take over your account ("called SIM-swap attacks"), and
 anything protected by your phone number or linked to SMS. Even if they
 guess your name and password, they will still need your PIN to access
 and make changes to your account.
+
+Apple iOS users now have the option to enable [Lockdown Mode](https://support.apple.com/en-us/105120) on their iOS devices. Lockdown Mode is an optional, extreme protection that’s designed for the very few individuals who, because of who they are or what they do, might be personally targeted by some of the most sophisticated digital threats. Most people are never targeted by attacks of this nature, so this is overkill for most and may impact your day to day too much for most to enable.
 
 ## Secure your Child's Devices
 **This section is a work in progress; these items should also be considered advanced. These tools are not meant to replace talking to your children about their security and what you're doing to protect them as a parent.**
@@ -200,9 +203,12 @@ a tall order. The solution is to use a password manager, which can be
 intimidating; however, integrations with mobile devices and browsers
 have made for a less disruptive user experience. 
 
+## Passkeys 
+We all know that passwords of the bane of our existance. [Passkeys](https://safety.google/intl/en_us/authentication/passkey/) were designed to leverage the devices we are already authenticating to biometrically - like our phones or physical tokens (mentioned below), to represent a way to authenticate without a password. Many larger providers - Google, Apple, Microsoft, etc are supporting the use of passkeys in lieu of a password + MFA challenge. You can bind these authentications to your device, or even to your password manager (see below) to ensure your passkey follows you on all devices.  Passkeys are not perfect, but they are a step forward.  In most cases, you still have a password and some other way of authenticating with these providers, so the security is still only as good as your weakest way to authenticate to a service, so if enabling passkeys, consider reviewing your other authentication methods with your providers after enrollment. 
+
 ## Password Managers 
-Password managers such as [1Password](https://1password.com/) and
-[LastPass](https://lastpass.com/) help you create, store and enter
+Password managers such as [1Password](https://1password.com/), 
+[Bitwarden](https://bitwarden.com/) and [LastPass](https://www.lastpass.com) help you create, store and enter
 login credentials for you from within your browser or mobile device.
 They will create passwords that are long, random, and unique. They will
 store them, in encrypted form, in a database in the cloud. When logging
